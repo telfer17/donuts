@@ -18,6 +18,7 @@ body {
 
 .content {
   margin-top: 100px;
+  margin-bottom: 40px;
 }
 
 #mainNav .navbar-brand {
@@ -44,8 +45,6 @@ body {
   font-weight: 100;
   font-size: 3rem;
 }
-
-
 
 /* @media (max-width: 800px) {
   #headingGroup h1 {
